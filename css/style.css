@@ -4110,11 +4110,15 @@ h6 {
 
 .copy_right_text {
     text-align: center;
-    margin-top: 60px;
+    margin-right: 100px;
 }
 
-.copy_right_text p a {
-    color: #766dff;
+.footer-copyright {
+    background-color: black;
+}
+
+#contact {
+    color: white;
 }
 
 
